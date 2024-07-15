@@ -2,7 +2,9 @@
 *I'm glad you're here!*
 
 ## About Me
-I'm passionate about Software and Data Engineering.  
+I have almost 10 years of experience IT.
+I'm passionate about Software and Data Engineering. 
+
 **Main skills:** Java, SQL, PL/SQL  
 **Status:** 🌱 I’m currently learning Apache Superset.
 
