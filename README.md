@@ -1,7 +1,5 @@
 # Hi 👋
 *I'm glad you're here!*
-
-## About Me
 I have almost 10 years of experience IT.
 I'm passionate about Software and Data Engineering. 
 
@@ -9,11 +7,10 @@ I'm passionate about Software and Data Engineering.
 **Status:** 🌱 I’m currently learning Apache Superset.
 
 # Portfolio
-
 ## Software Development
 ### Dr.Echo 
 **Electronic Health Record application for medicine**  
-This is a classic JavaFX application with a modern approach to UI/UX.  
+> This is a classic JavaFX application with a modern approach to UI/UX.  
 
 [Go to repository](https://github.com/szwrk/DrEcho)
 
@@ -22,7 +19,7 @@ This is a classic JavaFX application with a modern approach to UI/UX.
 ## Data Engineering
 ### Analyzing 21M Hospital Records
 **Public Data Processing with SQL, Shell Scripts, SQLLoader, and Superset**  
-This project delves into a dataset of 21 million hospitalization records from Poland's National Health Fund (NFZ), sourced from the open-data portal dane.gov.pl. It's a multifaceted project involving elements of data engineering, data analysis, and database administration, offering a holistic approach to handling and visualizing large-scale data.
+> This project delves into a dataset of 21 million hospitalization records from Poland's National Health Fund (NFZ), sourced from the open-data portal dane.gov.pl. It's a multifaceted project involving elements of data engineering, data analysis, and database administration, offering a holistic approach to handling and visualizing large-scale data.
 
 [Go to repository](https://github.com/szwrk/nfz-hospitalization-data)
 
