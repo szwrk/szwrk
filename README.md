@@ -25,7 +25,6 @@ or scroll down to explore highlighted project repositories ⬇
 
 [![Status - In progress](https://img.shields.io/badge/Status-In_progress-yellow)](https://)
 
-
 ## Data Engineering Projects
 ### [Analyzing 21M Hospital Records](https://github.com/szwrk/nfz-hospitalization-data)
 **Public Data Processing with SQL, Shell Scripts, SQLLoader, and Superset**  
@@ -34,3 +33,4 @@ or scroll down to explore highlighted project repositories ⬇
 **Technologies:** #apache-superset #sql #sql-loader #shell #etl #dba #analytics #data-visualization
 
 [![Status - In progress](https://img.shields.io/badge/Status-In_progress-yellow)](https://)
+## and more...!
