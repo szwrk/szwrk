@@ -14,8 +14,9 @@ I'm passionate about **Software and Data Engineering**.
 [**🟦LinkedIn**](https://www.linkedin.com/in/wilamowski/) - [**🌍wilamowski.net**](https://wilamowski.net)
 
 # Portfolio
-[**🌍portfolio.wilamowski.net**](https://portfolio.wilamowski.net) 
-## Software Development
+You can visit my project overview at [**🌍 portfolio.wilamowski.net**](https://portfolio.wilamowski.net)
+or scroll down to explore highlighted project repositories ⬇
+## Software Engineering Projects
 ### [Dr.Echo](https://github.com/szwrk/DrEcho)
 **Electronic Health Record application for medicine**  
 > This is a classic JavaFX application with a modern approach to UI/UX. 
@@ -25,7 +26,7 @@ I'm passionate about **Software and Data Engineering**.
 [![Status - In progress](https://img.shields.io/badge/Status-In_progress-yellow)](https://)
 
 
-## Data Engineering
+## Data Engineering Projects
 ### [Analyzing 21M Hospital Records](https://github.com/szwrk/nfz-hospitalization-data)
 **Public Data Processing with SQL, Shell Scripts, SQLLoader, and Superset**  
 > This project delves into a dataset of 21 million hospitalization records from Poland's National Health Fund (NFZ), sourced from the open-data portal dane.gov.pl. It's a multifaceted project involving elements of data engineering, data analysis, and database administration, offering a holistic approach to handling and visualizing large-scale data.
