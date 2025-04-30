@@ -29,8 +29,10 @@ or scroll down to explore highlighted project repositories ⬇
 ### [Analyzing 21M Hospital Records - MDS-style](https://github.com/szwrk/nfz-hosp-mds)
 **Public Data Processing**
 > This project delves into a dataset of 21 million hospitalization records from Poland's National Health Fund (NFZ), sourced from the open-data portal dane.gov.pl. It's a multifaceted project involving elements of fullstack data engineering
-**Technologies:
+**Technologies: #Airflow #DBT #Seaborn #Pandas #SQL #Postgres 
+
 [![Status - In progress](https://img.shields.io/badge/Status-In_progress-yellow)](https://)
+
 --- 
 ### [Legacy - Analyzing 21M Hospital Records - DBA-style](https://github.com/szwrk/nfz-hospitalization-data)
 **Public Data Processing with SQL, Shell Scripts, SQLLoader, and Superset**  
