@@ -26,11 +26,16 @@ or scroll down to explore highlighted project repositories ⬇
 [![Status - In progress](https://img.shields.io/badge/Status-In_progress-yellow)](https://)
 
 ## Data Engineering Projects
-### [Analyzing 21M Hospital Records - Legacy DBA-style](https://github.com/szwrk/nfz-hospitalization-data)
+### [Analyzing 21M Hospital Records - MDS-style](https://github.com/szwrk/nfz-hosp-mds)
+**Public Data Processing**
+> This project delves into a dataset of 21 million hospitalization records from Poland's National Health Fund (NFZ), sourced from the open-data portal dane.gov.pl. It's a multifaceted project involving elements of fullstack data engineering
+**Technologies:
+[![Status - In progress](https://img.shields.io/badge/Status-In_progress-yellow)](https://)
+--- 
+### [Legacy - Analyzing 21M Hospital Records - DBA-style](https://github.com/szwrk/nfz-hospitalization-data)
 **Public Data Processing with SQL, Shell Scripts, SQLLoader, and Superset**  
 > This project delves into a dataset of 21 million hospitalization records from Poland's National Health Fund (NFZ), sourced from the open-data portal dane.gov.pl. It's a multifaceted project involving elements of data engineering, data analysis, and database administration, offering a holistic approach to handling and visualizing large-scale data.
 
 **Technologies:** #apache-superset #sql #sql-loader #shell #etl #dba #analytics #data-visualization
 
-[![Status - In progress](https://img.shields.io/badge/Status-In_progress-yellow)](https://)
 ## and more...!
