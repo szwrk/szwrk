@@ -13,7 +13,7 @@ I'm passionate about **Software and Data Engineering**.
 **More**
 [**🟦LinkedIn**](https://www.linkedin.com/in/wilamowski/) - [**🌍wilamowski.net**](https://wilamowski.net)
 
-## 🇪🇺 Choose European Code
+## 🇪🇺 ## 🇪🇺 Support Europe — Choose Codeberg over GitHub
 
 Migration in progress.  
 Instead of GitHub, I choose **Codeberg** — free from tracking, ads, and corporate control.  
