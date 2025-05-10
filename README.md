@@ -13,6 +13,15 @@ I'm passionate about **Software and Data Engineering**.
 **More**
 [**🟦LinkedIn**](https://www.linkedin.com/in/wilamowski/) - [**🌍wilamowski.net**](https://wilamowski.net)
 
+## 🇪🇺 Choose European Code
+
+Migration in progress.  
+Instead of GitHub, I choose **Codeberg** — free from tracking, ads, and corporate control.  
+It’s a non-profit, community-driven project based on Gitea.
+
+👉 Visit me at [codeberg.org/szwrk](https://codeberg.org/szwrk)
+![EU](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)
+
 # Portfolio
 You can visit my project overview at [**🌍 portfolio.wilamowski.net**](https://portfolio.wilamowski.net)
 or scroll down to explore highlighted project repositories ⬇
