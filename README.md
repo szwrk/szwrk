@@ -20,7 +20,8 @@ Instead of GitHub, I choose **Codeberg** — free from tracking, ads, and corpor
 It’s a non-profit, community-driven project based on Gitea.
 
 👉 Visit me at [codeberg.org/szwrk](https://codeberg.org/szwrk)
-![EU](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)
+
+![EU](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/330px-Flag_of_Europe.svg.png)
 
 # Portfolio
 You can visit my project overview at [**🌍 portfolio.wilamowski.net**](https://portfolio.wilamowski.net)
